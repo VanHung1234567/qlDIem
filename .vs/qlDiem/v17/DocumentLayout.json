@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "G:\\hung\\c#\\qlDiem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|G:\\hung\\c#\\qlDiem\\qldiem\\chuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|g:\\hung\\c#\\qldiem\\qldiem\\chuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\chuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|g:\\hung\\c#\\qldiem\\qldiem\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|G:\\hung\\c#\\qlDiem\\qldiem\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -97,8 +97,7 @@
               "ToolTip": "G:\\hung\\c#\\qlDiem\\qlDiem\\TrangChu.cs [Design]",
               "RelativeToolTip": "qlDiem\\TrangChu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T03:05:24.242Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-31T03:05:24.242Z"
             },
             {
               "$type": "Document",
@@ -109,8 +108,7 @@
               "ToolTip": "G:\\hung\\c#\\qlDiem\\qlDiem\\MonHoc.cs [Design]",
               "RelativeToolTip": "qlDiem\\MonHoc.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T01:46:39.014Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-31T01:46:39.014Z"
             },
             {
               "$type": "Document",
@@ -121,8 +119,7 @@
               "ToolTip": "G:\\hung\\c#\\qlDiem\\qlDiem\\SinhVien.cs [Design]",
               "RelativeToolTip": "qlDiem\\SinhVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T01:46:17.491Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-31T01:46:17.491Z"
             },
             {
               "$type": "Document",
@@ -133,8 +130,7 @@
               "ToolTip": "G:\\hung\\c#\\qlDiem\\qlDiem\\LopHoc.cs [Design]",
               "RelativeToolTip": "qlDiem\\LopHoc.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T01:18:02.09Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-08T01:18:02.09Z"
             },
             {
               "$type": "Document",
@@ -158,8 +154,7 @@
               "RelativeToolTip": "qlDiem\\TrangChu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T01:45:51.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T01:45:51.96Z"
             },
             {
               "$type": "Document",
@@ -171,8 +166,7 @@
               "RelativeToolTip": "qlDiem\\SinhVien.cs",
               "ViewState": "AQIAAJEAAAAAAAAAAAAAwJ0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T03:04:21.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T03:04:21.205Z"
             },
             {
               "$type": "Document",
