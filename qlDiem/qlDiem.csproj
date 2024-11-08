@@ -114,8 +114,14 @@
     <Compile Include="TrangChu.Designer.cs">
       <DependentUpon>TrangChu.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ChuyenNganh.resx">
+      <DependentUpon>ChuyenNganh.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="DangNhap.resx">
       <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LopHoc.resx">
+      <DependentUpon>LopHoc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MonHoc.resx">
       <DependentUpon>MonHoc.cs</DependentUpon>
