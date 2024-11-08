@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\.Net\\qldiem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|D:\\.Net\\qldiem\\qldiem\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|d:\\.net\\qldiem\\qldiem\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|D:\\.Net\\qldiem\\qldiem\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|D:\\.Net\\qldiem\\qldiem\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|D:\\.Net\\qldiem\\qldiem\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|D:\\.Net\\qldiem\\qldiem\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|D:\\.Net\\qldiem\\qldiem\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|D:\\.Net\\qldiem\\qldiem\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|d:\\.net\\qldiem\\qldiem\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|D:\\.Net\\qldiem\\qldiem\\loaidaudiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TrangChu.cs [Design]",
               "DocumentMoniker": "D:\\.Net\\qldiem\\qlDiem\\TrangChu.cs",
               "RelativeDocumentMoniker": "qlDiem\\TrangChu.cs",
@@ -106,41 +106,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "TrangChu.cs",
               "DocumentMoniker": "D:\\.Net\\qldiem\\qlDiem\\TrangChu.cs",
               "RelativeDocumentMoniker": "qlDiem\\TrangChu.cs",
               "ToolTip": "D:\\.Net\\qldiem\\qlDiem\\TrangChu.cs",
               "RelativeToolTip": "qlDiem\\TrangChu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T01:45:51.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DangNhap.cs [Design]",
-              "DocumentMoniker": "D:\\.Net\\qldiem\\qlDiem\\DangNhap.cs",
-              "RelativeDocumentMoniker": "qlDiem\\DangNhap.cs",
-              "ToolTip": "G:\\hung\\c#\\qldiem1\\qlDiem\\DangNhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T03:14:04.224Z"
+              "WhenOpened": "2024-10-31T01:45:51.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\.Net\\qldiem\\qlDiem\\DangNhap.cs",
+              "RelativeDocumentMoniker": "qlDiem\\DangNhap.cs",
+              "ToolTip": "D:\\.Net\\qldiem\\qlDiem\\DangNhap.cs [Design]",
+              "RelativeToolTip": "qlDiem\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:14:04.224Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DangNhap.cs",
               "DocumentMoniker": "D:\\.Net\\qldiem\\qlDiem\\DangNhap.cs",
               "RelativeDocumentMoniker": "qlDiem\\DangNhap.cs",
               "ToolTip": "D:\\.Net\\qldiem\\qlDiem\\DangNhap.cs",
               "RelativeToolTip": "qlDiem\\DangNhap.cs",
-              "ViewState": "AQIAADIAAAAAoJmZmZnJvwsAAAABAAAA",
+              "ViewState": "AgIAADIAAAAAoJmZmZnJvwsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T03:14:05.965Z"
+              "WhenOpened": "2024-10-31T03:14:05.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MonHoc.cs [Design]",
               "DocumentMoniker": "D:\\.Net\\qldiem\\qlDiem\\MonHoc.cs",
               "RelativeDocumentMoniker": "qlDiem\\MonHoc.cs",
