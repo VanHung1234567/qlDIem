@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "G:\\hung\\c#\\qlDiem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|g:\\hung\\c#\\qldiem\\qldiem\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|G:\\hung\\c#\\qlDiem\\qldiem\\chuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\chuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|G:\\hung\\c#\\qlDiem\\qldiem\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|G:\\hung\\c#\\qlDiem\\qldiem\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|G:\\hung\\c#\\qlDiem\\qldiem\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|g:\\hung\\c#\\qldiem\\qldiem\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|G:\\hung\\c#\\qlDiem\\qldiem\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|G:\\hung\\c#\\qlDiem\\qldiem\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|G:\\hung\\c#\\qlDiem\\qldiem\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\loaikhoahoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|G:\\hung\\c#\\qlDiem\\qldiem\\chuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\chuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|G:\\hung\\c#\\qlDiem\\qldiem\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|G:\\hung\\c#\\qlDiem\\qldiem\\hocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\hocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|G:\\hung\\c#\\qlDiem\\qldiem\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|solutionrelative:qldiem\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0BBAE58-789F-494A-9A18-3EF908EFF2CA}|qlDiem\\qlDiem.csproj|G:\\hung\\c#\\qlDiem\\qldiem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,30 +90,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TrangChu.cs [Design]",
               "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\TrangChu.cs",
               "RelativeDocumentMoniker": "qlDiem\\TrangChu.cs",
               "ToolTip": "G:\\hung\\c#\\qlDiem\\qlDiem\\TrangChu.cs [Design]",
               "RelativeToolTip": "qlDiem\\TrangChu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T03:05:24.242Z"
+              "WhenOpened": "2024-10-31T03:05:24.242Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DangNhap.cs",
-              "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\DangNhap.cs",
-              "RelativeDocumentMoniker": "qlDiem\\DangNhap.cs",
-              "ToolTip": "G:\\hung\\c#\\qlDiem\\qlDiem\\DangNhap.cs",
-              "RelativeToolTip": "qlDiem\\DangNhap.cs",
-              "ViewState": "AQIAADIAAAAAoJmZmZnJvwsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T03:14:05.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MonHoc.cs [Design]",
               "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\MonHoc.cs",
               "RelativeDocumentMoniker": "qlDiem\\MonHoc.cs",
@@ -132,11 +121,12 @@
               "ToolTip": "G:\\hung\\c#\\qlDiem\\qlDiem\\SinhVien.cs [Design]",
               "RelativeToolTip": "qlDiem\\SinhVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T01:46:17.491Z"
+              "WhenOpened": "2024-10-31T01:46:17.491Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "LopHoc.cs [Design]",
               "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\LopHoc.cs",
               "RelativeDocumentMoniker": "qlDiem\\LopHoc.cs",
@@ -148,7 +138,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "ChuyenNganh.cs [Design]",
+              "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\ChuyenNganh.cs",
+              "RelativeDocumentMoniker": "qlDiem\\ChuyenNganh.cs",
+              "ToolTip": "G:\\hung\\c#\\qlDiem\\qlDiem\\ChuyenNganh.cs [Design]",
+              "RelativeToolTip": "qlDiem\\ChuyenNganh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:19:32.912Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrangChu.cs",
+              "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\TrangChu.cs",
+              "RelativeDocumentMoniker": "qlDiem\\TrangChu.cs",
+              "ToolTip": "G:\\hung\\c#\\qlDiem\\qlDiem\\TrangChu.cs",
+              "RelativeToolTip": "qlDiem\\TrangChu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:45:51.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\SinhVien.cs",
+              "RelativeDocumentMoniker": "qlDiem\\SinhVien.cs",
+              "ToolTip": "G:\\hung\\c#\\qlDiem\\qlDiem\\SinhVien.cs",
+              "RelativeToolTip": "qlDiem\\SinhVien.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAwJ0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:04:21.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DangNhap.cs [Design]",
               "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\DangNhap.cs",
               "RelativeDocumentMoniker": "qlDiem\\DangNhap.cs",
@@ -160,18 +188,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "TrangChu.cs",
-              "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\TrangChu.cs",
-              "RelativeDocumentMoniker": "qlDiem\\TrangChu.cs",
-              "ToolTip": "G:\\hung\\c#\\qlDiem\\qlDiem\\TrangChu.cs",
-              "RelativeToolTip": "qlDiem\\TrangChu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\DangNhap.cs",
+              "RelativeDocumentMoniker": "qlDiem\\DangNhap.cs",
+              "ToolTip": "G:\\hung\\c#\\qlDiem\\qlDiem\\DangNhap.cs",
+              "RelativeToolTip": "qlDiem\\DangNhap.cs",
+              "ViewState": "AQIAADIAAAAAoJmZmZnJvwsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T01:45:51.96Z"
+              "WhenOpened": "2024-10-31T03:14:05.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "LoaiKhoaHoc.cs [Design]",
               "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\LoaiKhoaHoc.cs",
               "RelativeDocumentMoniker": "qlDiem\\LoaiKhoaHoc.cs",
@@ -182,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "LoaiDauDiem.cs [Design]",
               "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\LoaiDauDiem.cs",
               "RelativeDocumentMoniker": "qlDiem\\LoaiDauDiem.cs",
@@ -193,18 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ChuyenNganh.cs [Design]",
-              "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\ChuyenNganh.cs",
-              "RelativeDocumentMoniker": "qlDiem\\ChuyenNganh.cs",
-              "ToolTip": "G:\\hung\\c#\\qldiem1\\qlDiem\\ChuyenNganh.cs [Design]",
-              "RelativeToolTip": "..\\qldiem1\\qlDiem\\ChuyenNganh.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T01:19:32.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Diem.cs [Design]",
               "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\Diem.cs",
               "RelativeDocumentMoniker": "qlDiem\\Diem.cs",
@@ -215,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DkyLopHoc.cs [Design]",
               "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\DkyLopHoc.cs",
               "RelativeDocumentMoniker": "qlDiem\\DkyLopHoc.cs",
@@ -226,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "HocKy.cs [Design]",
               "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\HocKy.cs",
               "RelativeDocumentMoniker": "qlDiem\\HocKy.cs",
@@ -234,18 +251,6 @@
               "RelativeToolTip": "..\\qldiem1\\qlDiem\\HocKy.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T01:17:07.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SinhVien.cs",
-              "DocumentMoniker": "G:\\hung\\c#\\qlDiem\\qlDiem\\SinhVien.cs",
-              "RelativeDocumentMoniker": "qlDiem\\SinhVien.cs",
-              "ToolTip": "G:\\hung\\c#\\qlDiem\\qlDiem\\SinhVien.cs",
-              "RelativeToolTip": "qlDiem\\SinhVien.cs",
-              "ViewState": "AQIAAKwAAAAAAAAAAAAAALsAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T03:04:21.205Z"
             },
             {
               "$type": "Document",

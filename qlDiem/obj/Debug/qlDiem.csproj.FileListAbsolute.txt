@@ -10,7 +10,6 @@ G:\hung\c#\qlDiem\qlDiem\obj\Debug\qlDiem.exe
 G:\hung\c#\qlDiem\qlDiem\obj\Debug\qlDiem.pdb
 G:\hung\c#\qlDiem\qlDiem\obj\Debug\qlDiem.TrangChu.resources
 G:\hung\c#\qlDiem\qlDiem\obj\Debug\qlDiem.SinhVien.resources
-G:\hung\c#\qlDiem\qlDiem\obj\Debug\qlDiem.DauDiem.resources
 G:\hung\c#\qldiem1\qlDiem\bin\Debug\qlDiem.exe.config
 G:\hung\c#\qldiem1\qlDiem\bin\Debug\qlDiem.exe
 G:\hung\c#\qldiem1\qlDiem\bin\Debug\qlDiem.pdb
@@ -23,3 +22,17 @@ G:\hung\c#\qldiem1\qlDiem\obj\Debug\qlDiem.csproj.GenerateResource.cache
 G:\hung\c#\qldiem1\qlDiem\obj\Debug\qlDiem.csproj.CoreCompileInputs.cache
 G:\hung\c#\qldiem1\qlDiem\obj\Debug\qlDiem.exe
 G:\hung\c#\qldiem1\qlDiem\obj\Debug\qlDiem.pdb
+E:\ThucHanhC#\qldiem\qlDiem\bin\Debug\qlDiem.exe.config
+E:\ThucHanhC#\qldiem\qlDiem\bin\Debug\qlDiem.exe
+E:\ThucHanhC#\qldiem\qlDiem\bin\Debug\qlDiem.pdb
+E:\ThucHanhC#\qldiem\qlDiem\obj\Debug\qlDiem.csproj.AssemblyReference.cache
+E:\ThucHanhC#\qldiem\qlDiem\obj\Debug\qlDiem.DangNhap.resources
+E:\ThucHanhC#\qldiem\qlDiem\obj\Debug\qlDiem.MonHoc.resources
+E:\ThucHanhC#\qldiem\qlDiem\obj\Debug\qlDiem.Properties.Resources.resources
+E:\ThucHanhC#\qldiem\qlDiem\obj\Debug\qlDiem.SinhVien.resources
+E:\ThucHanhC#\qldiem\qlDiem\obj\Debug\qlDiem.TrangChu.resources
+E:\ThucHanhC#\qldiem\qlDiem\obj\Debug\qlDiem.csproj.GenerateResource.cache
+E:\ThucHanhC#\qldiem\qlDiem\obj\Debug\qlDiem.csproj.CoreCompileInputs.cache
+E:\ThucHanhC#\qldiem\qlDiem\obj\Debug\qlDiem.exe
+E:\ThucHanhC#\qldiem\qlDiem\obj\Debug\qlDiem.pdb
+G:\hung\c#\qlDiem\qlDiem\obj\Debug\qlDiem.MonHoc.resources
