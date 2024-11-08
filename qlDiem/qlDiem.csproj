@@ -120,6 +120,9 @@
     <EmbeddedResource Include="DangNhap.resx">
       <DependentUpon>DangNhap.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="LoaiKhoaHoc.resx">
+      <DependentUpon>LoaiKhoaHoc.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LopHoc.resx">
       <DependentUpon>LopHoc.cs</DependentUpon>
     </EmbeddedResource>
